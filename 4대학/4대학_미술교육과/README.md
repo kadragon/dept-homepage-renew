@@ -14,12 +14,6 @@
 - 자료실
   - B 임용 정보 (신규)
   - B 학과 전시회 (신규)
-- 관련 링크
-  - [한국문화예술교육진흥원](https://arte.or.kr)
-  - [문화예술교육사(자격증)](https://acei.arte.or.kr)
-  - [국가교육과정정보센터](https://ncic.re.kr)
-  - [국립현대미술관](https://www.mmca.go.kr)
-  - [국립중앙박물관](https://www.museum.go.kr)
 
 ## 추가사항
 
